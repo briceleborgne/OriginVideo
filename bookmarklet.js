@@ -1,0 +1,1 @@
+(function(){(m=>{m&&(window.location=m.slice(-1)[0])})(document.title.match(/(\bhttps?:\/\/t\.co\/[\w\-\.as]+)/g))})()
